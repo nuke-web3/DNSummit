@@ -1,0 +1,22 @@
+{
+  "name": "DNSummit",
+  "version": "1.0.0",
+  "description": "The DNSummit Home Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "live-server"
+  },
+  "keywords": [
+    "DNSummit",
+    "IPFS",
+    "Decentralized",
+    "Networks",
+    "Summit"
+  ],
+  "author": "Dan Shields",
+  "license": "Creative Commons Attribution 3.0 Unported",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
