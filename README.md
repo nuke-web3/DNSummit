@@ -1,5 +1,5 @@
-# OpEI
-OpEI Website
+# DNSummit
+DNSummit Website
 
 
 ## Run a Server
